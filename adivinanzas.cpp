@@ -12,7 +12,7 @@ int main() {
     int userGuess;
 
     cout << "Welcome to the Guessing Game!" << endl;
-    cout << "Try to guess the secret number between 1 and 100." << endl;
+    cout << "Try to guess the secret number between 1 and 100  'Be careful not to put a letter instead of a number because the game loops and could slow down your computer'." << endl;
 
     do {
         cout << "Enter your guess: ";
