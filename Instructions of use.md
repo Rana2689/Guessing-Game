@@ -27,3 +27,5 @@ Open your project in the IDE
 Make sure the setting is set to "Release" to create an .exe file
 
 Compile and run the project. The IDE will generate the executable file in the project output folder
+
+To run the created Linux executable, you must run chmod -x executable_name.exe so that it can be run
